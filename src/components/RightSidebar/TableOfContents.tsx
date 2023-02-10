@@ -69,7 +69,7 @@ const TableOfContents: FunctionalComponent<{ headings: MarkdownHeading[] }> = ({
 	return (
 		<>
 			<h2 id={onThisPageID} className="heading">
-				在本页中的位置
+				目录
 			</h2>
 			<ul ref={toc}>
 				{headings

@@ -1,25 +1,19 @@
 ---
-title: "a"
+title: "Hello! I'm Links"
 description: "Docs intro"
 ---
 
-**Welcome to Astro!**
+#### 🤓 一位学习 前端开发 的学生，主要使用 Vue3 和 TypeScript
 
-This is the [`👨‍💻docks`](https://www.baidu.com) starter template. It contains all of the features that you need to build a Markdown-powered documentation site, including:
+#### 持续学习中..
 
-- ✅ **Full Markdown support**
-- ✅ **Responsive mobile-friendly design**
+- 🥳 我的 Github : [Links426](https://github.com/Links426)
+- 👨‍💻 个人博客 仓库 : [Links426's Blog](https://github.com/Links426)
 - ✅ **Sidebar navigation**
 - ✅ **Search (powered by Algolia)**
 - ✅ **Multi-language i18n**
 - ✅ **Automatic table of contents**
 - ✅ **Automatic list of contributors**
 - ✅ (and, best of all) **dark mode**
-
-## Getting Started
-
-To get started with this theme, check out the `README.md` in your new project directory. It provides documentation on how to use and customize this template for your own project. Keep the README around so that you can always refer back to it as you build.
-
-Found a missing feature that you can't live without? Please suggest it on Discord [(#ideas-and-suggestions channel)](https://www.baidu.com) and even consider adding it yourself on GitHub! Astro is an open source project and contributions from developers like you are how we grow!
 
 Good luck out there, Astronaut. 🧑‍🚀

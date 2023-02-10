@@ -1,12 +1,12 @@
 export const SITE = {
-	title: 'Documentation',
+	title: 'Links‘s blog',
 	description: 'Your website description.',
 	defaultLanguage: 'en-us',
 } as const
 
 export const OPEN_GRAPH = {
 	image: {
-		src: 'https://github.com/withastro/astro/blob/main/assets/social/banner-minimal.png?raw=true',
+		src: '',
 		alt:
 			'astro logo on a starry expanse of space,' +
 			' with a purple saturn-like planet floating in the right foreground',
