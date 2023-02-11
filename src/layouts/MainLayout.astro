@@ -20,13 +20,12 @@ const currentPage = Astro.url.pathname;
 const currentFile = `src/content/docs${currentPage.replace(/\/$/, '')}.md`;
 const githubEditUrl = `${GITHUB_EDIT_URL}/${currentFile}`;
 ---
-
+<!-- todo顶部标签的位置 -->
 <html dir={data.dir} lang={data.lang} class="initial">
 	<head>
 		<HeadCommon />
 		<HeadSEO {...data} canonicalUrl={canonicalURL} />
 		<title>
-			<!-- todo顶部标签的位置 -->
 			{`${data.title} 🤓 ${SITE.title}`}
 		</title>
 		<style>
