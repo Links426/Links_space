@@ -43,8 +43,7 @@ export const SIDEBAR: Sidebar = {
 		],
 		'Another Section': [
 			{ text: 'Page 4', link: 'en/page-4' },
-			{ text: 'Page 4', link: 'en/page-4' },
-			{ text: 'Page 4', link: 'en/page-5' },
+			{ text: 'JavaScript 基础', link: 'en/javascript基础' },
 		],
 	},
 }
